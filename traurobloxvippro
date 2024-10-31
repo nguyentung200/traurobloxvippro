@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Traurobloxvippro",--Tên Script
+    logoscript = "138984651442234",--ID Logo Script
+    tacgia = "nguyentung"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
